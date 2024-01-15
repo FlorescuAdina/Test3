@@ -1,6 +1,6 @@
 describe('Enter the Emag website', () =>{
 
-it('Checking the wish list button', () =>{
+it('Checking the shopping cart button', () =>{
 
 cy.visit('https://emag.ro');
 
